@@ -15,7 +15,7 @@ This portfolio contains the following sections:
    HTML5: For the semantic structure of the page.
    CSS3: For all styling, layout, and responsive design.
 
-     Skill Set
+    Skill Set
   This section represents my current confidence levels with core technologies:
            HTML5: 80%
            CSS3: 80%
